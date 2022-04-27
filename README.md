@@ -1,3 +1,7 @@
-# devops-chapter-2
+# GitHub Tutorial Node App
 
-This is the secomd commit to README File
+## Basic Node JS App covered under chapter 2
+
+###### Process for setting up the Node JS
+
+> Automate (almost) Everything
